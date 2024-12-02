@@ -74,7 +74,7 @@ public class ChatClient {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите свое имя: ");
         String userName = scanner.nextLine();
-        Socket socket = new Socket("localhost", 8888);
+        Socket socket = new Socket("localhost", 1300);
         ChatClient chatClient = new ChatClient(socket, userName);
         chatClient.listenFromMessage();
         chatClient.sentMessage();

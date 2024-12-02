@@ -33,7 +33,7 @@ public class ChatServer {
     }
 
     public static void main(String[] args) throws IOException {
-        ServerSocket serverSocket = new ServerSocket(8888);
+        ServerSocket serverSocket = new ServerSocket(1300);
         ChatServer server = new ChatServer(serverSocket);
         server.runServer();
     }

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8062b98-45a4-440d-ac97-c525621fdef5" name="Changes" comment="Change ReadMe">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b8062b98-45a4-440d-ac97-c525621fdef5" name="Changes" comment="Add Instruction">
+      <change beforePath="$PROJECT_DIR$/src/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,12 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733142468365</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Instruction">
+      <option name="closed" value="true" />
+      <created>1733164663021</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733164663021</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final version chat" />
     <MESSAGE value="Change ReadMe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change ReadMe" />
+    <MESSAGE value="Add Instruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Instruction" />
   </component>
 </project>
